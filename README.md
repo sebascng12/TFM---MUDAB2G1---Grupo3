@@ -1,6 +1,6 @@
 # TFM --- MUDAB2G1 --- Grupo 3
 
-Este repositorio contiene los archivos utilizados para el desarrollo del Trabajo de Fin de Máster del grupo 3 del Máster Universitario en Data Analytics for Business. 
+Este repositorio contiene los archivos utilizados para el desarrollo del Trabajo de Fin de Máster del Máster Universitario en Data Analytics for Business. 
 El objetivo principal del proyecto es analizar el impacto de diferentes fuentes de información tanto numéricas como textuales en la predicción del valor de la empresa Tesla 
 mediante modelos de aprendizaje automático.
 
