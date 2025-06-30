@@ -36,7 +36,7 @@ Este proyecto analiza la relación entre datos financieros estructurados y conte
 
 ## Autores
 
-##### Grupo 3 — Máster Universitario en Data Analytics for Business:
+##### MUDAB2G1 - Grupo 3 — Máster Universitario en Data Analytics for Business:
 - Sebastian Carrillo
 - Yaros Cifuentes
 - Javier Donoso
