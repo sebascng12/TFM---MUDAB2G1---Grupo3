@@ -20,7 +20,7 @@ Este proyecto analiza la relación entre datos financieros estructurados y conte
    Archivo comprimido (.zip) que contiene los siguientes datasets utilizados en el proyecto:
   
   - `tesla_news_raw.csv`  
-    Dataset sin tratar con las noticias scrappeadas de 2019-2025 de Tesla Inc.
+    Dataset sin tratar con las noticias scrappeadas de 2019-2025 de Tesla Inc. (se subirá en el campus, ya que por su tamaño impedía cargarlo en el repositorio.)
     
   - `tesla_sentiment.csv`  
     Dataset con puntuacion de sentimientos y embeddings de noticias relacionadas con Tesla agrupado por la media diaria, generado mediante modelos de NLP (FinBERT).
