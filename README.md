@@ -1,8 +1,7 @@
 # TFM --- MUDAB2G1 --- Grupo 3
 
 Este repositorio contiene los archivos utilizados para el desarrollo del Trabajo de Fin de Máster del Máster Universitario en Data Analytics for Business. 
-El objetivo principal del proyecto es analizar el impacto de diferentes fuentes de información tanto numéricas como textuales en la predicción del precio de la accion de la empresa Tesla 
-mediante modelos de aprendizaje automático.
+Este proyecto analiza la relación entre datos financieros estructurados y contenido textual de noticias económicas, con el objetivo de evaluar su valor conjunto como predictor del comportamiento del mercado bursátil mediante modelos de aprendizaje automático.
 
 ---
 
